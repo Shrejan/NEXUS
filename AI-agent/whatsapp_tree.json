@@ -1,0 +1,2364 @@
+{
+  "tree": {
+    "name": "WhatsApp",
+    "class": "WinUIDesktopWin32WindowClass",
+    "type": "window",
+    "children": [
+      {
+        "name": "Non Client Input Sink Window",
+        "class": "InputNonClientPointerSource",
+        "type": "pane",
+        "children": []
+      },
+      {
+        "name": "AppWindow Custom Title Bar",
+        "class": "ReunionWindowingCaptionControls",
+        "type": "pane",
+        "children": [
+          {
+            "name": "Minimize",
+            "class": "",
+            "type": "button",
+            "children": []
+          },
+          {
+            "name": "Maximize",
+            "class": "",
+            "type": "button",
+            "children": []
+          },
+          {
+            "name": "Close",
+            "class": "",
+            "type": "button",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "",
+        "class": "Microsoft.UI.Content.DesktopChildSiteBridge",
+        "type": "pane",
+        "children": [
+          {
+            "name": "",
+            "class": "Chrome_WidgetWin_0",
+            "type": "pane",
+            "children": [
+              {
+                "name": "(103) WhatsApp",
+                "class": "Chrome_WidgetWin_1",
+                "type": "pane",
+                "children": [
+                  {
+                    "name": "",
+                    "class": "Intermediate D3D Window",
+                    "type": "pane",
+                    "children": []
+                  },
+                  {
+                    "name": "(103) WhatsApp - Web content",
+                    "class": "BrowserRootView",
+                    "type": "region",
+                    "children": [
+                      {
+                        "name": "",
+                        "class": "NonClientView",
+                        "type": "region",
+                        "children": [
+                          {
+                            "name": "",
+                            "class": "EmbeddedBrowserTabRootView",
+                            "type": "region",
+                            "children": []
+                          },
+                          {
+                            "name": "",
+                            "class": "EmbeddedBrowserFrameView",
+                            "type": "region",
+                            "children": [
+                              {
+                                "name": "Untitled",
+                                "class": "Label",
+                                "type": "text",
+                                "children": []
+                              },
+                              {
+                                "name": "",
+                                "class": "BrowserCaptionButtonContainer",
+                                "type": "region",
+                                "children": [
+                                  {
+                                    "name": "Minimize",
+                                    "class": "EdgeWindowsCaptionButton",
+                                    "type": "button",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Maximize",
+                                    "class": "EdgeWindowsCaptionButton",
+                                    "type": "button",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Restore",
+                                    "class": "EdgeWindowsCaptionButton",
+                                    "type": "button",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Close",
+                                    "class": "EdgeWindowsCaptionButton",
+                                    "type": "button",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "",
+                                "class": "BrowserView",
+                                "type": "region",
+                                "children": [
+                                  {
+                                    "name": "",
+                                    "class": "MainBackgroundRegionView",
+                                    "type": "region",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "",
+                                    "class": "TopContainerView",
+                                    "type": "region",
+                                    "children": [
+                                      {
+                                        "name": "App bar",
+                                        "class": "EdgeToolbarView",
+                                        "type": "tool bar",
+                                        "children": [
+                                          {
+                                            "name": "",
+                                            "class": "LocationBarView",
+                                            "type": "group",
+                                            "children": [
+                                              {
+                                                "name": "",
+                                                "class": "PermissionChipView",
+                                                "type": "button",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "Label",
+                                                "type": "text",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "Label",
+                                                "type": "text",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "KeywordHintView",
+                                                "type": "group",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "AXVirtualView",
+                                                "type": "alert",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "PageActionContainerView",
+                                                "type": "region",
+                                                "children": [
+                                                  {
+                                                    "name": "",
+                                                    "class": "PageActionView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "PageActionView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "PageActionView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "PageActionView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "PageActionView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "PageActionView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "PageActionView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "PageActionIconContainerView",
+                                                "type": "region",
+                                                "children": [
+                                                  {
+                                                    "name": "Search instead",
+                                                    "class": "EdgeComposerSearchChatTurnaroundPageActionIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "PageActionIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Open in app",
+                                                    "class": "IntentPickerView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "App available. Install ",
+                                                    "class": "EdgePwaInstallView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Show translate options",
+                                                    "class": "TranslateIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Zoom: 100%",
+                                                    "class": "ZoomView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Third-party cookies blocked",
+                                                    "class": "CookieControlsIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Save card",
+                                                    "class": "SavePaymentIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Save card",
+                                                    "class": "SavePaymentIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "View your virtual card number",
+                                                    "class": "FilledCardInformationIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Add virtual card",
+                                                    "class": "VirtualCardEnrollIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Enable mandatory re-authentication",
+                                                    "class": "MandatoryReauthIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Update automatic profile switching preferences for this site",
+                                                    "class": "PageActionIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "View your virtual card number",
+                                                    "class": "EdgeTokenizationIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Buy now pay later",
+                                                    "class": "EdgeBNPLIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "Save address?",
+                                                    "class": "EdgeAutofillAiIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "More actions",
+                                                    "class": "EdgeOverflowIconView",
+                                                    "type": "button",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "AXVirtualView",
+                                                        "type": "alert",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "View",
+                                                    "type": "region",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "Separator",
+                                                        "type": "region",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "Label",
+                                                "type": "text",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "ReadAloudBarView",
+                                        "type": "region",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "ContentsSeparator",
+                                        "type": "region",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Infobar Container",
+                                    "class": "InfoBarContainerView",
+                                    "type": "group",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "",
+                                    "class": "SidebarContentsSplitView",
+                                    "type": "region",
+                                    "children": [
+                                      {
+                                        "name": "",
+                                        "class": "SidebarContentsSplitView",
+                                        "type": "region",
+                                        "children": [
+                                          {
+                                            "name": "",
+                                            "class": "View",
+                                            "type": "region",
+                                            "children": [
+                                              {
+                                                "name": "",
+                                                "class": "MultiContentsView",
+                                                "type": "region",
+                                                "children": [
+                                                  {
+                                                    "name": "",
+                                                    "class": "View",
+                                                    "type": "region",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "WebView",
+                                                        "type": "document",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "NativeViewHost",
+                                                            "type": "region",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "ScrimView",
+                                                        "type": "region",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "View",
+                                                        "type": "region",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "Chrome Legacy Window",
+                                                        "class": "Chrome_RenderWidgetHostHWND",
+                                                        "type": "pane",
+                                                        "children": [
+                                                          {
+                                                            "name": "(103) WhatsApp",
+                                                            "class": "",
+                                                            "type": "document",
+                                                            "children": [
+                                                              {
+                                                                "name": "",
+                                                                "class": "",
+                                                                "type": "group",
+                                                                "children": [
+                                                                  {
+                                                                    "name": "",
+                                                                    "class": "",
+                                                                    "type": "group",
+                                                                    "children": [
+                                                                      {
+                                                                        "name": "",
+                                                                        "class": "",
+                                                                        "type": "group",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "",
+                                                                            "class": "app-wrapper-web os-win x1n2onr6 xupqr0c xh8yej3 x5yr21d xsxifin x1vs4gjj",
+                                                                            "type": "group",
+                                                                            "children": [
+                                                                              {
+                                                                                "name": "",
+                                                                                "class": "",
+                                                                                "type": "group",
+                                                                                "children": []
+                                                                              },
+                                                                              {
+                                                                                "name": "",
+                                                                                "class": "",
+                                                                                "type": "group",
+                                                                                "children": []
+                                                                              },
+                                                                              {
+                                                                                "name": "",
+                                                                                "class": "x1n2onr6 x13vifvy xh8yej3 x1vqgdyp x1h3rtpe x78zum5 x6s0dn4 x1pg5gke",
+                                                                                "type": "group",
+                                                                                "children": [
+                                                                                  {
+                                                                                    "name": "WhatsApp",
+                                                                                    "class": "",
+                                                                                    "type": "text",
+                                                                                    "children": []
+                                                                                  }
+                                                                                ]
+                                                                              },
+                                                                              {
+                                                                                "name": "",
+                                                                                "class": "two x1n2onr6 x13vifvy x1o0tod x78zum5 xh8yej3 x5yr21d x6ikm8r x10wlt62 x1h3rtpe x1w3jsh0 xf8xn22 x1bczwif x17un8ov x1e7945m x11o6v7j x1g0ag68 xcgwb2z x4afe7t xu90me3",
+                                                                                "type": "group",
+                                                                                "children": [
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "x12xzxwr x1n2onr6 x9f619 x78zum5 x6s0dn4 xq3y45c xbyj736 x5yr21d x1h3rtpe x1iw51ew xde1mab x889kno x1a8lsjc",
+                                                                                    "type": "header",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "x10l6tqk x13vifvy x78zum5 x5yr21d x6ikm8r x10wlt62 x47corl x8qhkwt xdmgpyl x1oy9qf3",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "x10l6tqk x13vifvy x1o0tod x78zum5 xh8yej3 x5yr21d x6ikm8r x10wlt62 x47corl",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "x9f619 x1n2onr6 x5yr21d x17dzmu4 x1i1dayz x2ipvbc xjdofhw x78zum5 xdt5ytf x12xzxwr x1plvlek xryxfnj x570efc x18pi947 x1dgx9ea xnnhin0 x1dt7z5j x1ugzxio",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "x9f619 x1n2onr6 xupqr0c x5yr21d x6ikm8r x10wlt62 x17dzmu4 x1i1dayz x2ipvbc xjdofhw xyyilfv x1iyjqo2",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "x9f619 x1n2onr6 xupqr0c x5yr21d x6ikm8r x10wlt62 x17dzmu4 x1i1dayz x2ipvbc xjdofhw x1vb5itz x2ydcri x1873f8k x1fkvrks",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "x10l6tqk x13vifvy xtijo5x x1ey2m1c x1o0tod",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "xixxii4 x191j7n5 xzwoauc xz4gtu xevlxbw xc9l9hb x47corl",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  }
+                                                                                ]
+                                                                              },
+                                                                              {
+                                                                                "name": "",
+                                                                                "class": "",
+                                                                                "type": "group",
+                                                                                "children": []
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "DataProtectionOverlayView",
+                                                        "type": "region",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "ScrimView",
+                                                        "type": "region",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "NativeViewHost",
+                                                        "type": "region",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "View",
+                                                        "type": "region",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "View",
+                                                    "type": "region",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "WebView",
+                                                        "type": "document",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "NativeViewHost",
+                                                            "type": "region",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "ScrimView",
+                                                        "type": "region",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "View",
+                                                        "type": "region",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "ContentsWebView",
+                                                        "type": "document",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "NativeViewHost",
+                                                            "type": "region",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "DataProtectionOverlayView",
+                                                        "type": "region",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "ScrimView",
+                                                        "type": "region",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "NativeViewHost",
+                                                        "type": "region",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "View",
+                                                        "type": "region",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "MultiContentsDropTargetView",
+                                                    "type": "region",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "View",
+                                                        "type": "region",
+                                                        "children": [
+                                                          {
+                                                            "name": "Open in split screen",
+                                                            "class": "Label",
+                                                            "type": "text",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "ContentsSeparator",
+                                                    "type": "region",
+                                                    "children": []
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "View",
+                                                "type": "region",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "View",
+                                                "type": "region",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Side pane",
+                                            "class": "SidePaneRootContainer",
+                                            "type": "region",
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Side pane",
+                                        "class": "HubWebViewContainerView",
+                                        "type": "region",
+                                        "children": [
+                                          {
+                                            "name": "",
+                                            "class": "HubWebView",
+                                            "type": "document",
+                                            "children": [
+                                              {
+                                                "name": "",
+                                                "class": "NativeViewHost",
+                                                "type": "region",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "",
+                                            "class": "SidePaneRootContainerBackgroundAndBorderView",
+                                            "type": "region",
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "",
+                                    "class": "ShadowOverlayView",
+                                    "type": "region",
+                                    "children": [
+                                      {
+                                        "name": "",
+                                        "class": "CornerView",
+                                        "type": "region",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "CornerView",
+                                        "type": "region",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "CornerView",
+                                        "type": "region",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "CornerView",
+                                        "type": "region",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "ShadowFrameView",
+                                        "type": "region",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "",
+                                    "class": "SidePanel",
+                                    "type": "region",
+                                    "children": [
+                                      {
+                                        "name": "",
+                                        "class": "ContentParentView",
+                                        "type": "region",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Side Panel Resize Handle (draggable)",
+                                        "class": "SidePanelResizeArea",
+                                        "type": "slider",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Tab bar",
+                                    "class": "EdgeTabStripRegionView",
+                                    "type": "tab",
+                                    "children": [
+                                      {
+                                        "name": "",
+                                        "class": "EdgeTabStrip",
+                                        "type": "region",
+                                        "children": [
+                                          {
+                                            "name": "",
+                                            "class": "EdgeTabContainerImpl",
+                                            "type": "tab",
+                                            "children": [
+                                              {
+                                                "name": "(103) WhatsApp - Memory usage - 746 MB",
+                                                "class": "EdgeTab",
+                                                "type": "tab item",
+                                                "children": [
+                                                  {
+                                                    "name": "Mute tab",
+                                                    "class": "AlertIndicatorButton",
+                                                    "type": "button",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Collaborator profile photo",
+                                                    "class": "CollaboratorProfilePhoto",
+                                                    "type": "button",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Collaborator profile photo",
+                                                    "class": "CollaboratorProfilePhoto",
+                                                    "type": "button",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Collaborator profile photo",
+                                                    "class": "CollaboratorProfilePhoto",
+                                                    "type": "button",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Collaborator profile photo",
+                                                    "class": "CollaboratorProfilePhoto",
+                                                    "type": "button",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Close tab",
+                                                    "class": "EdgeTabCloseButton",
+                                                    "type": "button",
+                                                    "children": []
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "View",
+                                                "type": "region",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "ScrollView",
+                                                "type": "region",
+                                                "children": [
+                                                  {
+                                                    "name": "",
+                                                    "class": "ScrollView::Viewport",
+                                                    "type": "region",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "View",
+                                                        "type": "region",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "ScrollView::Viewport",
+                                                    "type": "region",
+                                                    "children": []
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "Separator",
+                                                "type": "region",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "",
+                                            "class": "TabStrip::EdgeTabDragContextImpl",
+                                            "type": "region",
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "New Tab",
+                                        "class": "EdgeNewTabButton",
+                                        "type": "button",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "FrameGrabHandle",
+                                        "type": "region",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "",
+                                    "class": "View",
+                                    "type": "region",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "",
+                                    "class": "ScrimView",
+                                    "type": "region",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "",
+                                    "class": "WindowedFindBarFocusProxyView",
+                                    "type": "region",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "",
+                                    "class": "EmbeddedBrowserDownloadView",
+                                    "type": "region",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "",
+                            "class": "TopContainerOverlayView",
+                            "type": "region",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "",
+            "class": "InputSiteWindowClass",
+            "type": "pane",
+            "children": [
+              {
+                "name": "",
+                "class": "Microsoft.UI.Xaml.Controls.WebView2",
+                "type": "pane",
+                "children": [
+                  {
+                    "name": "(103) WhatsApp",
+                    "class": "Chrome_WidgetWin_1",
+                    "type": "pane",
+                    "children": [
+                      {
+                        "name": "",
+                        "class": "Intermediate D3D Window",
+                        "type": "pane",
+                        "children": []
+                      },
+                      {
+                        "name": "(103) WhatsApp - Web content",
+                        "class": "BrowserRootView",
+                        "type": "region",
+                        "children": [
+                          {
+                            "name": "",
+                            "class": "NonClientView",
+                            "type": "region",
+                            "children": [
+                              {
+                                "name": "",
+                                "class": "EmbeddedBrowserTabRootView",
+                                "type": "region",
+                                "children": []
+                              },
+                              {
+                                "name": "",
+                                "class": "EmbeddedBrowserFrameView",
+                                "type": "region",
+                                "children": [
+                                  {
+                                    "name": "Untitled",
+                                    "class": "Label",
+                                    "type": "text",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "",
+                                    "class": "BrowserCaptionButtonContainer",
+                                    "type": "region",
+                                    "children": [
+                                      {
+                                        "name": "Minimize",
+                                        "class": "EdgeWindowsCaptionButton",
+                                        "type": "button",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Maximize",
+                                        "class": "EdgeWindowsCaptionButton",
+                                        "type": "button",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Restore",
+                                        "class": "EdgeWindowsCaptionButton",
+                                        "type": "button",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Close",
+                                        "class": "EdgeWindowsCaptionButton",
+                                        "type": "button",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "",
+                                    "class": "BrowserView",
+                                    "type": "region",
+                                    "children": [
+                                      {
+                                        "name": "",
+                                        "class": "MainBackgroundRegionView",
+                                        "type": "region",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "TopContainerView",
+                                        "type": "region",
+                                        "children": [
+                                          {
+                                            "name": "App bar",
+                                            "class": "EdgeToolbarView",
+                                            "type": "tool bar",
+                                            "children": [
+                                              {
+                                                "name": "",
+                                                "class": "LocationBarView",
+                                                "type": "group",
+                                                "children": [
+                                                  {
+                                                    "name": "",
+                                                    "class": "PermissionChipView",
+                                                    "type": "button",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "Label",
+                                                    "type": "text",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "Label",
+                                                    "type": "text",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "KeywordHintView",
+                                                    "type": "group",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "AXVirtualView",
+                                                    "type": "alert",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "PageActionContainerView",
+                                                    "type": "region",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "PageActionView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "PageActionView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "PageActionView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "PageActionView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "PageActionView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "PageActionView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "PageActionView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "PageActionIconContainerView",
+                                                    "type": "region",
+                                                    "children": [
+                                                      {
+                                                        "name": "Search instead",
+                                                        "class": "EdgeComposerSearchChatTurnaroundPageActionIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "PageActionIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Open in app",
+                                                        "class": "IntentPickerView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "App available. Install ",
+                                                        "class": "EdgePwaInstallView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Show translate options",
+                                                        "class": "TranslateIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Zoom: 100%",
+                                                        "class": "ZoomView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Third-party cookies blocked",
+                                                        "class": "CookieControlsIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Save card",
+                                                        "class": "SavePaymentIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Save card",
+                                                        "class": "SavePaymentIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "View your virtual card number",
+                                                        "class": "FilledCardInformationIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Add virtual card",
+                                                        "class": "VirtualCardEnrollIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Enable mandatory re-authentication",
+                                                        "class": "MandatoryReauthIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Update automatic profile switching preferences for this site",
+                                                        "class": "PageActionIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "View your virtual card number",
+                                                        "class": "EdgeTokenizationIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Buy now pay later",
+                                                        "class": "EdgeBNPLIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "Save address?",
+                                                        "class": "EdgeAutofillAiIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "More actions",
+                                                        "class": "EdgeOverflowIconView",
+                                                        "type": "button",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "AXVirtualView",
+                                                            "type": "alert",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "View",
+                                                        "type": "region",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "Separator",
+                                                            "type": "region",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "Label",
+                                                    "type": "text",
+                                                    "children": []
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "",
+                                            "class": "ReadAloudBarView",
+                                            "type": "region",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "",
+                                            "class": "ContentsSeparator",
+                                            "type": "region",
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Infobar Container",
+                                        "class": "InfoBarContainerView",
+                                        "type": "group",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "SidebarContentsSplitView",
+                                        "type": "region",
+                                        "children": [
+                                          {
+                                            "name": "",
+                                            "class": "SidebarContentsSplitView",
+                                            "type": "region",
+                                            "children": [
+                                              {
+                                                "name": "",
+                                                "class": "View",
+                                                "type": "region",
+                                                "children": [
+                                                  {
+                                                    "name": "",
+                                                    "class": "MultiContentsView",
+                                                    "type": "region",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "View",
+                                                        "type": "region",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "WebView",
+                                                            "type": "document",
+                                                            "children": [
+                                                              {
+                                                                "name": "",
+                                                                "class": "NativeViewHost",
+                                                                "type": "region",
+                                                                "children": []
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "ScrimView",
+                                                            "type": "region",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "View",
+                                                            "type": "region",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Chrome Legacy Window",
+                                                            "class": "Chrome_RenderWidgetHostHWND",
+                                                            "type": "pane",
+                                                            "children": [
+                                                              {
+                                                                "name": "(103) WhatsApp",
+                                                                "class": "",
+                                                                "type": "document",
+                                                                "children": [
+                                                                  {
+                                                                    "name": "",
+                                                                    "class": "",
+                                                                    "type": "group",
+                                                                    "children": [
+                                                                      {
+                                                                        "name": "",
+                                                                        "class": "",
+                                                                        "type": "group",
+                                                                        "children": [
+                                                                          {
+                                                                            "name": "",
+                                                                            "class": "",
+                                                                            "type": "group",
+                                                                            "children": [
+                                                                              {
+                                                                                "name": "",
+                                                                                "class": "app-wrapper-web os-win x1n2onr6 xupqr0c xh8yej3 x5yr21d xsxifin x1vs4gjj",
+                                                                                "type": "group",
+                                                                                "children": [
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "x1n2onr6 x13vifvy xh8yej3 x1vqgdyp x1h3rtpe x78zum5 x6s0dn4 x1pg5gke",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "two x1n2onr6 x13vifvy x1o0tod x78zum5 xh8yej3 x5yr21d x6ikm8r x10wlt62 x1h3rtpe x1w3jsh0 xf8xn22 x1bczwif x17un8ov x1e7945m x11o6v7j x1g0ag68 xcgwb2z x4afe7t xu90me3",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  },
+                                                                                  {
+                                                                                    "name": "",
+                                                                                    "class": "",
+                                                                                    "type": "group",
+                                                                                    "children": []
+                                                                                  }
+                                                                                ]
+                                                                              }
+                                                                            ]
+                                                                          }
+                                                                        ]
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                ]
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "DataProtectionOverlayView",
+                                                            "type": "region",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "ScrimView",
+                                                            "type": "region",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "NativeViewHost",
+                                                            "type": "region",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "View",
+                                                            "type": "region",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "View",
+                                                        "type": "region",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "WebView",
+                                                            "type": "document",
+                                                            "children": [
+                                                              {
+                                                                "name": "",
+                                                                "class": "NativeViewHost",
+                                                                "type": "region",
+                                                                "children": []
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "ScrimView",
+                                                            "type": "region",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "View",
+                                                            "type": "region",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "ContentsWebView",
+                                                            "type": "document",
+                                                            "children": [
+                                                              {
+                                                                "name": "",
+                                                                "class": "NativeViewHost",
+                                                                "type": "region",
+                                                                "children": []
+                                                              }
+                                                            ]
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "DataProtectionOverlayView",
+                                                            "type": "region",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "ScrimView",
+                                                            "type": "region",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "NativeViewHost",
+                                                            "type": "region",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "class": "View",
+                                                            "type": "region",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "MultiContentsDropTargetView",
+                                                        "type": "region",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "View",
+                                                            "type": "region",
+                                                            "children": [
+                                                              {
+                                                                "name": "Open in split screen",
+                                                                "class": "Label",
+                                                                "type": "text",
+                                                                "children": []
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "ContentsSeparator",
+                                                        "type": "region",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "View",
+                                                    "type": "region",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "View",
+                                                    "type": "region",
+                                                    "children": []
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "Side pane",
+                                                "class": "SidePaneRootContainer",
+                                                "type": "region",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Side pane",
+                                            "class": "HubWebViewContainerView",
+                                            "type": "region",
+                                            "children": [
+                                              {
+                                                "name": "",
+                                                "class": "HubWebView",
+                                                "type": "document",
+                                                "children": [
+                                                  {
+                                                    "name": "",
+                                                    "class": "NativeViewHost",
+                                                    "type": "region",
+                                                    "children": []
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "SidePaneRootContainerBackgroundAndBorderView",
+                                                "type": "region",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "ShadowOverlayView",
+                                        "type": "region",
+                                        "children": [
+                                          {
+                                            "name": "",
+                                            "class": "CornerView",
+                                            "type": "region",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "",
+                                            "class": "CornerView",
+                                            "type": "region",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "",
+                                            "class": "CornerView",
+                                            "type": "region",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "",
+                                            "class": "CornerView",
+                                            "type": "region",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "",
+                                            "class": "ShadowFrameView",
+                                            "type": "region",
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "SidePanel",
+                                        "type": "region",
+                                        "children": [
+                                          {
+                                            "name": "",
+                                            "class": "ContentParentView",
+                                            "type": "region",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "Side Panel Resize Handle (draggable)",
+                                            "class": "SidePanelResizeArea",
+                                            "type": "slider",
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Tab bar",
+                                        "class": "EdgeTabStripRegionView",
+                                        "type": "tab",
+                                        "children": [
+                                          {
+                                            "name": "",
+                                            "class": "EdgeTabStrip",
+                                            "type": "region",
+                                            "children": [
+                                              {
+                                                "name": "",
+                                                "class": "EdgeTabContainerImpl",
+                                                "type": "tab",
+                                                "children": [
+                                                  {
+                                                    "name": "(103) WhatsApp - Memory usage - 746 MB",
+                                                    "class": "EdgeTab",
+                                                    "type": "tab item",
+                                                    "children": [
+                                                      {
+                                                        "name": "Mute tab",
+                                                        "class": "AlertIndicatorButton",
+                                                        "type": "button",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "Collaborator profile photo",
+                                                        "class": "CollaboratorProfilePhoto",
+                                                        "type": "button",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "Collaborator profile photo",
+                                                        "class": "CollaboratorProfilePhoto",
+                                                        "type": "button",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "Collaborator profile photo",
+                                                        "class": "CollaboratorProfilePhoto",
+                                                        "type": "button",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "Collaborator profile photo",
+                                                        "class": "CollaboratorProfilePhoto",
+                                                        "type": "button",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "Close tab",
+                                                        "class": "EdgeTabCloseButton",
+                                                        "type": "button",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "View",
+                                                    "type": "region",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "ScrollView",
+                                                    "type": "region",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "class": "ScrollView::Viewport",
+                                                        "type": "region",
+                                                        "children": [
+                                                          {
+                                                            "name": "",
+                                                            "class": "View",
+                                                            "type": "region",
+                                                            "children": []
+                                                          }
+                                                        ]
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "class": "ScrollView::Viewport",
+                                                        "type": "region",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "class": "Separator",
+                                                    "type": "region",
+                                                    "children": []
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "",
+                                                "class": "TabStrip::EdgeTabDragContextImpl",
+                                                "type": "region",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "New Tab",
+                                            "class": "EdgeNewTabButton",
+                                            "type": "button",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "",
+                                            "class": "FrameGrabHandle",
+                                            "type": "region",
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "View",
+                                        "type": "region",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "ScrimView",
+                                        "type": "region",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "WindowedFindBarFocusProxyView",
+                                        "type": "region",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "",
+                                        "class": "EmbeddedBrowserDownloadView",
+                                        "type": "region",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "",
+                                "class": "TopContainerOverlayView",
+                                "type": "region",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "",
+        "class": "",
+        "type": "title bar",
+        "children": [
+          {
+            "name": "System",
+            "class": "",
+            "type": "menu bar",
+            "children": [
+              {
+                "name": "System",
+                "class": "",
+                "type": "menu item",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Minimize",
+            "class": "",
+            "type": "button",
+            "children": []
+          },
+          {
+            "name": "Maximize",
+            "class": "",
+            "type": "button",
+            "children": []
+          },
+          {
+            "name": "Close",
+            "class": "",
+            "type": "button",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}
