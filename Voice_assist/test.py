@@ -1,8 +1,6 @@
 import time
-
 import sounddevice as sd
 import soundfile as sf
-
 from STT import SpeechToText
 
 
