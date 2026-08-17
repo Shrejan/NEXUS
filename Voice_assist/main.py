@@ -22,6 +22,11 @@ if sys.platform == "win32":
     for pkg in ("cublas", "cudnn"):
         dll_dir = os.path.join(nvidia_base, pkg, "bin")
         if os.path.isdir(dll_dir):
+            # os.add_dll_directory() alone isn't reliably picked up by
+            # ctranslate2's native DLL loading on Windows. Prepending
+            # to PATH directly (same as `$env:PATH += ...` in PowerShell,
+            # which we confirmed works) is what actually fixes it.
+            os.environ["PATH"] = dll_dir + os.pathsep + os.environ["PATH"]
             os.add_dll_directory(dll_dir)
 
 from openwakeword.model import Model
@@ -65,7 +70,7 @@ print("========================================")
 openwakeword.utils.download_models()
 
 wake_model = Model(
-    wakeword_models=["hey_mycroft"],
+    wakeword_models=["alexa"],
     inference_framework="onnx"
 )
 
