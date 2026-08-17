@@ -34,7 +34,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
 # C++
 *.o
 *.a
