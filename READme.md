@@ -307,7 +307,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙋 Support & Contact
 
-- 📧 Email: support@nexus.ai
+- 📧 Email: shrejankotyan@gmail.com
 - 🐛 Issues: [GitHub Issues](link-to-issues)
 - 💬 Discussions: [GitHub Discussions](link-to-discussions)
 
